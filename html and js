@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+    <link href="http://fonts.cdnfonts.com/css/segoe-ui-4" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/11.1.0/nouislider.min.css" />
+     <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    
+    <!-- <div id="slider-amount"></div>
+<div id="slider-period"></div> -->
+
+
+    <section class="container">
+        <div class="navbar">
+            <img src="images/logo.png" class="logo">
+            <nav>
+                <ul>
+                    <li><a href="">Refinansavimas</a></li>
+                    <li><a href="">Pagalba</a></li>
+                    <li><a href="">Kontaktai</a></li>
+                </ul>
+            </nav>
+            <img src="images/login.png" class="login">
+
+    </div>
+    <div class="row">
+        <div class="col">
+            <h1>GREITAS IR PATOGUS KREDITAS INTERNETU</h1>
+            <p>
+                Kam laukti, jeigu pinigus galite gauti jau šiandien!<br>
+                Ecocredit.lt sistema sukurta taip, kad viskas vyktų greitai.<br>
+                Greita registracija, greitas paraiškos pateikimas, greitas<br>
+                patvirtinimas, greita paskola suteikiama ir jūs greitai<br>
+                gaunate pinigus; </p>
+                <button>Kodėl Ecocredit?</button>
+               
+
+                <!-- <div id="slider-amount" class="amount"></div>
+                <div id="slider-period" class="period"></div> -->
+        </div>
+        
+        <div class="slider-container">
+            <div id="slider-amount" class="amount">
+           
+            </div>
+             
+                <div id="slider-period" class="period"></div>
+                <div class="phrase">
+                    <h4>Suma kurią norite pasiskolinti</h4>
+                </div>
+                <div class="js-amount"></div>
+                <div class="js-period"></div>
+                <div class="phrase-two">
+                    <h4><div class="phrase">
+                        <h4>Terminas kuriam skolinatės</h4>
+                </div>
+                <div class="date"></div>
+                <div class="return-date"></div>
+                <div><a href="" class="herotwo-btn">GAUTI </a>
+                </div>
+                <div><a href="" class="herothree-btn">Mokėjimo grafikas </a>
+                </div>
+        </div>
+
+      </section>
+ 
+      <section class="kodel">
+       
+          <h3><img src="images/kodel-ecocredit.png"></h3>
+          <div><a href="" class="hero-btn">GAUTI PASKOLĄ JAU DABAR</a></div>
+          <hr color="54BF36" size="6">
+          <div class="row2">
+              <div class="kodel-col1">
+                  <h3><img src="images/money-back.png"></h3>
+                  <h3>PIGU</h3>
+                  <p2>Palūkanos ir mokesčiai pas mus yra<br>
+                       gerokai mažesni nei rinkos vidurkis,<br> todėl mūsų klientai visada sutaupo</p2>
+              </div>
+              <div class="row3"></div>
+              <div class="kodel-col2">
+                <h3><img src="images/fast-time.png"></h3>
+                <h3>PER 15MIN</h3>
+                <p2>Dėka automatizuotos sistemos<br> dauguma mūsų klientų pinigus<br> gauna per 15min</p2>
+            </div>
+             <div class="row4">
+                <div class="kodel-col3">
+                    <h3><img src="images/euro-1.png"></h3>
+                    <h3>IKI 2000€</h3>
+                    <p2>Galime pasiūlyti paskolas net iki<br> 2000 eurų lanksčiais terminais</p2>
+                </div>
+                <!-- <div><a href="" class="hero-btn">GAUTI PASKOLĄ JAU DABAR</a></div> -->
+                 <div class="row5">
+                    <div class="kodel-col4">
+                        <h3><img src="images/team.png"></h3>
+                        <h3>INDIVIDUALU</h3>
+                        <p2>Individualūs sprendimai ir<br> pasiūlymai mūsų klientams</p2>
+                    </div>
+                   
+                </div>
+                
+            </section>
+            <section class="secondlast">
+                <h4><img src="images/logo-small.png"></h4>
+                <div class="rowrow">
+    
+                    <div class="kodel-ecocredit-small">
+                        <h4><img src="images/icon-mobile.png"></h4>
+                    </div>
+    
+                    <div class="mail">
+                        <img src="images/icom-mail.png">
+                        
+                    </div>
+    
+                    <div class="words">
+                        <h4>Faktoringas<br>Kreditas internetu<br>Greitieji kreditai<br>Vartojimo kreditas <br>
+                        </h4>
+                    </div>
+                    
+                    <div class="words2">
+                        <h4>Paskolos internetu<br>
+                            Greitos paskolos<br>
+                            Dažnai užduodami klausimai<br>
+                            Tinklaraštis</h4>
+                    </div>
+    
+                    <div class="words3">
+                        <h4>UAB ECOCREDIT<br>
+                            J.Basanavičiaus g. 25a-21 Vilnius, Lietuva<br> +37065694000<h4>
+    
+                    </div>
+                </section>
+
+                <section class="final">
+                    <h5><img src="images/logo-creditinfo.png"></h5>
+                    <div class="rowrowrow">
+        
+                        <div class="itepp-logo">
+                            <h5><img src="images/logo-ltepp.png"></h5>
+                        </div>
+        
+                        <div class="rapid-logo">
+                           <h5><img src="images/logo-rapidssl-ssl.png"></h5>
+                            
+                        </div>
+        
+                        <div class="line">
+                            <img src="images/grey-line.png">
+                        </div>
+        
+                        <div class="end">
+                                <h4>TIPINIS VARTOJIMO KREDITO PAVYZDYZ</h4>
+                            </div>
+        
+                            <div class="endp">
+                                <h5>Bendra Vartojimo Kredito kainos metinė norma yra apskaičiuojama ir nurodoma vadovaujantis Lietuvos banko 2012 m. lapkričio 29 d. nutarime Nr. 03-245 „Dėl Bendros vartojimo kredito kainos<br>
+                                    metinės normos skaičiavimo taisyklių patvirtinimo“ // Valstybės Žinios, 2012, Nr. 140-7230 nustatyta tvarka ir sąlygomis, vadovaujantis tik privalomomis prielaidomis. Kredito palūkanų apskaičiavimo<br>
+                                    pavyzdys: bendra vartojimo kredito suma – 1000,00 EUR, visa palūkanų suma – 567,44 EUR, metinė palūkanų norma – 32,41%, administravimo mokestis 432,00 EUR, sutarties terminas – 3 metai;<br>
+                                    bendra kredito gavėjo mokama suma – 1999,44 EUR, bendros vartojimo kredito kainos metinė norma (BVKKMN) – 68,04%.</h5>
+        
+                                    <div class="link1">
+                                        <a href="">Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo tvarkos aprašas.<br>
+                                            Privatumo politika</a>
+                                    </div>
+        
+                                    <div class="finaline">
+                                        <h5>Be www.ecocredit.lt administracijos sutikimo informaciją platinti draudžiama.</h5>
+                                    </div>
+        
+                </section>
+                <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/11.1.0/nouislider.min.js"></script>
+      <script>
+	  
+    var periods=[60,90,120,150,180,210,240,270,300,330,360,390,420,450,480,510,540,570,600,630];
+    var amounts=[100,200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000];
+    var prices={60:{100:"11.16",200:"22.34",300:"33.50",400:"44.68",500:"55.84",600:"67.02",700:"78.18",800:"89.36",900:"100.52",1000:"111.70",1100:"122.88",1200:"134.04",1300:"145.22",1400:"156.38",1500:"167.56",1600:"178.72",1700:"189.90",1800:"201.06",1900:"212.24",2000:"223.42"},90:{100:"14.99",200:"30.10",300:"45.18",400:"60.26",500:"75.31",600:"90.39",700:"105.47",800:"120.52",900:"135.60",1000:"150.68",1100:"165.73",1200:"180.81",1300:"195.77",1400:"210.94",1500:"226.02",1600:"241.07",1700:"256.15",1800:"271.05",1900:"286.28",2000:"301.36"},120:{100:"19.04",200:"38.04",300:"57.12",400:"76.20",500:"95.20",600:"114.28",700:"133.32",800:"152.40",900:"171.44",1000:"190.40",1100:"209.56",1200:"228.60",1300:"247.52",1400:"266.72",1500:"285.60",1600:"304.64",1700:"323.88",1800:"342.92",1900:"361.76",2000:"381.04"},150:{100:"23.10",200:"46.15",300:"69.25",400:"92.35",500:"115.45",600:"138.55",700:"161.65",800:"184.95",900:"207.95",1000:"230.90",1100:"254.20",1200:"277.45",1300:"300.40",1400:"323.70",1500:"346.60",1600:"369.95",1700:"392.85",1800:"415.95",1900:"439.05",2000:"462.15"},180:{100:"27.14",200:"54.46",300:"81.78",400:"108.92",500:"136.18",600:"163.44",700:"190.70",800:"218.20",900:"245.34",1000:"272.60",1100:"299.86",1200:"327.12",1300:"354.38",1400:"381.88",1500:"408.96",1600:"436.22",1700:"463.72",1800:"490.74",1900:"518.00",2000:"545.26"},210:{100:"31.32",200:"62.92",300:"94.38",400:"125.91",500:"157.37",600:"188.83",700:"220.36",800:"251.82",900:"283.49",1000:"315.02",1100:"346.48",1200:"378.01",1300:"409.54",1400:"441.00",1500:"472.81",1600:"504.06",1700:"535.52",1800:"567.05",1900:"598.51",2000:"630.04"},240:{100:"35.60",200:"71.52",300:"107.36",400:"143.12",500:"178.96",600:"214.80",700:"250.56",800:"286.40",900:"322.40",1000:"358.24",1100:"394.08",1200:"429.92",1300:"465.76",1400:"501.84",1500:"537.36",1600:"573.20",1700:"609.04",1800:"644.88",1900:"680.72",2000:"716.56"},270:{100:"40.04",200:"80.35",300:"120.57",400:"160.79",500:"201.10",600:"241.23",700:"281.54",800:"321.58",900:"362.07",1000:"402.29",1100:"442.60",1200:"482.82",1300:"523.04",1400:"563.26",1500:"603.48",1600:"643.79",1700:"684.01",1800:"724.23",1900:"764.45",2000:"804.67"},300:{100:"44.60",200:"89.10",300:"133.60",400:"178.60",500:"223.20",600:"268.10",700:"312.80",800:"357.50",900:"402.50",1000:"447.20",1100:"492.00",1200:"536.70",1300:"581.40",1400:"626.20",1500:"670.90",1600:"715.60",1700:"760.40",1800:"805.10",1900:"849.80",2000:"894.50"},330:{100:"48.83",200:"98.21",300:"147.26",400:"196.86",500:"246.02",600:"295.51",700:"344.78",800:"393.83",900:"443.65",1000:"492.81",1100:"541.97",1200:"591.57",1300:"640.73",1400:"690.11",1500:"739.38",1600:"788.65",1700:"838.03",1800:"887.30",1900:"936.57",2000:"985.84"},360:{100:"53.48",200:"107.44",300:"161.16",400:"215.48",500:"269.32",600:"323.52",700:"377.36",800:"431.08",900:"485.40",1000:"539.36",1100:"593.20",1200:"647.52",1300:"701.24",1400:"755.32",1500:"809.28",1600:"863.24",1700:"917.20",1800:"971.16",1900:"1025.00",2000:"1078.96"},390:{100:"58.08",200:"116.81",300:"175.28",400:"233.75",500:"293.00",600:"351.86",700:"410.46",800:"468.93",900:"528.18",1000:"586.52",1100:"645.25",1200:"704.37",1300:"762.84",1400:"821.57",1500:"880.30",1600:"939.03",1700:"997.63",1800:"1056.36",1900:"1115.09",2000:"1173.69"},420:{100:"62.82",200:"126.48",300:"189.72",400:"253.52",500:"317.04",600:"380.70",700:"444.08",800:"507.32",900:"571.12",1000:"634.92",1100:"698.16",1200:"762.10",1300:"825.34",1400:"889.00",1500:"952.52",1600:"1016.04",1700:"1079.56",1800:"1143.08",1900:"1206.60",2000:"1270.12"},450:{100:"67.70",200:"136.15",300:"204.30",400:"273.05",500:"341.50",600:"410.10",700:"478.40",800:"546.55",900:"615.60",1000:"683.90",1100:"752.05",1200:"820.95",1300:"889.10",1400:"957.55",1500:"1026.00",1600:"1094.45",1700:"1162.75",1800:"1231.20",1900:"1299.65",2000:"1367.95"},480:{100:"72.64",200:"146.08",300:"219.20",400:"292.96",500:"366.24",600:"439.52",700:"512.80",800:"586.08",900:"659.36",1000:"733.12",1100:"806.88",1200:"880.48",1300:"953.76",1400:"1026.40",1500:"1100.64",1600:"1173.92",1700:"1247.36",1800:"1320.64",1900:"1394.08",2000:"1467.52"},510:{100:"77.48",200:"156.15",300:"234.31",400:"312.81",500:"391.14",600:"469.47",700:"548.48",800:"626.81",900:"705.48",1000:"783.64",1100:"861.97",1200:"940.30",1300:"1018.63",1400:"1097.13",1500:"1175.46",1600:"1253.79",1700:"1332.12",1800:"1410.45",1900:"1488.95",2000:"1567.28"},540:{100:"82.34",200:"166.12",300:"249.54",400:"332.78",500:"416.74",600:"499.98",700:"583.94",800:"667.54",900:"751.32",1000:"834.74",1100:"918.34",1200:"1001.76",1300:"1085.90",1400:"1169.14",1500:"1253.10",1600:"1336.70",1700:"1420.30",1800:"1503.90",1900:"1587.50",2000:"1670.92"},570:{100:"87.34",200:"176.39",300:"265.06",400:"353.54",500:"442.40",600:"531.26",700:"620.31",800:"709.17",900:"798.03",1000:"886.51",1100:"975.37",1200:"1064.04",1300:"1153.09",1400:"1241.95",1500:"1331.00",1600:"1418.91",1700:"1508.53",1800:"1597.39",1900:"1686.25",2000:"1774.92"},600:{100:"92.80",200:"186.80",300:"280.80",400:"374.40",500:"469.00",600:"562.60",700:"657.20",800:"751.20",900:"845.40",1000:"939.20",1100:"1031.40",1200:"1127.40",1300:"1221.20",1400:"1315.60",1500:"1410.00",1600:"1503.20",1700:"1597.00",1800:"1691.00",1900:"1786.40",2000:"1880.40"},630:{100:"97.82",200:"197.11",300:"296.40",400:"395.69",500:"495.61",600:"594.69",700:"693.98",800:"793.90",900:"892.77",1000:"992.69",1100:"1092.19",1200:"1191.48",1300:"1291.40",1400:"1390.48",1500:"1489.77",1600:"1588.01",1700:"1687.30",1800:"1786.59",1900:"1885.88",2000:"1985.80"}}
+	  
+		var sliderAmount = document.getElementById('slider-amount');
+var sliderPeriod = document.getElementById('slider-period');
+noUiSlider.create(sliderAmount, {
+    start: 5,
+    step: 1,
+    connect: "lower",
+    range: {
+        'min': 0,
+        'max': amounts.length-1
+    }
+
+});
+
+ 
+noUiSlider.create(sliderPeriod, {
+    start: 5,
+    step: 1,
+    connect: "lower",
+    range: {
+        'min': 0,
+        'max': periods.length-1
+    }
+
+});
+sliderAmount.noUiSlider.on('update', function (values, handle) {
+   //getting the slider value
+   var amount_index = parseInt(values[handle]);
+//    console.log(amount_index + '   ' + amounts[amount_index]);
+
+   //setting the value to the slider tooltip
+   $("#slider-amount").find(".noUi-handle[data-handle="+handle+"] .noUi-tooltip").text(amounts[amount_index]);
+   //setting value to the div
+   $(".js-amount").html(amounts[amount_index]);
+});
+sliderPeriod.noUiSlider.on('update', function (values, handle) {
+   //getting the slider value
+   var period_index = parseInt(values[handle]);
+   
+ //    console.log(amount_index + '   ' + amounts[amount_index]);
+
+   //setting the value to the slider tooltip
+   $("#slider-period").find(".noUi-handle[data-handle="+handle+"] .noUi-tooltip").text(periods[period_index]);
+   //setting value to the div
+   $(".js-period").html(periods[period_index]);
+
+   var currentDate = new Date();
+var tomorrow = new Date();
+tomorrow.setDate(today.getDate() + 1);
+var day = tomorrow.getDate();
+var month = tomorrow.getMonth() + 1;
+var year = tomorrow.getFullYear();
+var returnDate = year + "-" + month + "-" + day;
+
+
+$(".date").html(tomorrow);
+$(".return-date").html(returnDate);
+
+});
+
+	  </script>
+
+</body>
+</html>
